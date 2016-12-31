@@ -1,1 +1,1 @@
-Demo Spring MVC
+Demo Spring MVC + JDBC Template
